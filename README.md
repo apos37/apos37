@@ -15,4 +15,5 @@ Coding isn’t just a profession for me; it’s a never-ending learning journey.
 
 While I’m enthusiastic about small, impactful projects, my current schedule limits my availability for large-scale commitments. I thrive on collaboration, so if you’ve got a manageable project or just want to chat tech, feel free to reach out!
 
-Happy coding, and enjoy the projects!
+
+Feel free to explore my projects and drop a line if you have any questions!
