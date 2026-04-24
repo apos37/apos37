@@ -1,19 +1,17 @@
-## Hi there 👋
+## Aristocles
 
-Hello there! You can call me Aristocles, a passionate coder with a deep-rooted love for all things tech. My coding journey began back in 1997, when Angelfire and Geocities were the gateways to the web. Over the years, I’ve transitioned from those early days into an experienced back-end website and Discord bot developer, working extensively with PHP and JS/jQuery.
+I am a developer with experience dating back to 1997. My background includes back-end web development, automation tools, and hardware integrations. I specialize in PHP and JavaScript/jQuery primarily, but dabble in Python and other languages as needed.
 
-## What I Do
+### Technical Focus
 
-- **WordPress Wizardry**: I focus on creating efficient solutions for the WordPress platform. You can explore my carefully maintained plugins on both the WP Plugin Repository and here on GitHub.
-- **Discord Bot Development**: I develop engaging Discord bots using Discord.js. A couple of my bots serve gaming communities, and one is an extensive graphology bot designed to assist with analyzing and interpreting handwriting.
+* **WordPress Development**: I build and maintain custom plugins focused on back-end efficiency. My work is available on the WordPress Plugin Repository, GitHub, and PluginRx.com.
+* **Stream Deck & Hardware Integration**: I develop custom Stream Deck plugins and utilize APIs to control IoT hardware, such as Govee smart lighting and other connected devices.
+* **Discord Bots**: I develop bots using Discord.js, including tools for gaming communities and specialized applications for graphology analysis.
+* **Desktop Applications**: I build functional tools and executables, recently focusing on Python-based status controllers and system automation.
 
-## Philosophy
+### Collaboration
 
-Coding isn’t just a profession for me; it’s a never-ending learning journey. I steer clear of the know-it-all attitude because the tech landscape is always evolving, and there’s always more to learn. If you’re as excited about continuous improvement as I am, we’ll get along just fine.
+I am available for smaller, well-defined projects or technical discussions. Due to current scheduling, I am not accepting large-scale commitments at this time.
 
-## Collaboration
-
-While I’m enthusiastic about small, impactful projects, my current schedule limits my availability for large-scale commitments. I thrive on collaboration, so if you’ve got a manageable project or just want to chat tech, feel free to reach out!
-
-##
-Feel free to explore my projects and drop a line if you have any questions! 👍👍
+---
+Feel free to review my repositories for project examples.
